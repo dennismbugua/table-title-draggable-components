@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+}
+
+.characters {
+  display: flex;
+  /* flex-direction: column; */
+  background-color: aqua;
+  width: 400px;
+  overflow-x: scroll;
+}
+.li {
+  margin: 0 2rem;
+}
